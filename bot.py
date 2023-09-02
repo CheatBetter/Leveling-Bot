@@ -91,4 +91,4 @@ def calculate_xp(level):
 
 
 # Run the bot with your token
-bot.run("MTE0NzM2ODE5NDc4MTIyOTA5Nw.Glm89U.ZxiE6_7t9YJhvdjtHcqXFtfxdh8gPb5-a_sOEA")
+bot.run("BOT TOKEN")
